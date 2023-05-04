@@ -1,0 +1,2 @@
+import{A as t}from"./index.fd697767.js";import"./index.496a2802.js";import"./iframe.2abe799d.js";import"./index.d89b63e1.js";import"./jsx-runtime.ae5c7281.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/kauanevieira.png",alt:"Kauane Vieira"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.c941c0d6.js.map
